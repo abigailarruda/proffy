@@ -42,5 +42,3 @@ O Proffy é uma plataforma de estudos online cujo objetivo é conectar alunos e 
   $ yarn
   $ yarn start
 ```
-"# proffy" 
-"# proffy" 
